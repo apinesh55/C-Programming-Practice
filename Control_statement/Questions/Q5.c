@@ -1,3 +1,5 @@
+/*Three digit number input through the keyboard write a program
+to find the given number is a Amstrong number or not. */
 #include <stdio.h>
 
 int main()
